@@ -10,3 +10,5 @@ Some of them may not be the fastest alogrithm for the challenge. However I do pl
 Shameless plug
 
 http://www.codeeval.com/profile/justinboyle/
+=======
+Codeeval.com solutions
