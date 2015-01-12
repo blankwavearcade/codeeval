@@ -1,4 +1,4 @@
-re("fs");
+var fs = require("fs");
 var lines = [];
 var count;
 fs.readFileSync(process.argv[2]).toString().split('\n').forEach(function (line) {
