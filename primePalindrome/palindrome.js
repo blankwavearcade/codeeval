@@ -1,4 +1,4 @@
-function isPrime(n) { 
+function isPrime(n) {  
  for(var i = 2; i < n; i++) { 
     if(n % i === 0 && i !== n) { 
          return false;
